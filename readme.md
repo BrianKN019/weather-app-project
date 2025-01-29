@@ -9,8 +9,8 @@
 
 ## Screenshots
 
-![Main Screen](Public/images/sc1.png)
-![Detailed View](Public/images/sc2.png)
+![Main Screen](Public/images/sc1.PNG)
+![Detailed View](Public/images/sc2.PNG)
 
 
 ##  Features
