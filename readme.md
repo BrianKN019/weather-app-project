@@ -4,7 +4,14 @@
 ![Python](https://img.shields.io/badge/Python-3.12.6-blue.svg)
 ![OpenWeather](https://img.shields.io/badge/OpenWeather-API-orange.svg)
 
+
 > A sophisticated weather application that provides real-time weather data with a premium user interface and seamless experience.
+
+## Screenshots
+
+![Main Screen](Public/images/sc1.png)
+![Detailed View](Public/images/sc2.png)
+
 
 ##  Features
 
