@@ -5,14 +5,14 @@ graph TB
 
     subgraph "Weather Application"
         subgraph "Web Layer"
-            WebServer["Django Web Server<br>(Python/Django)"]
+            WebServer["Django Web Server<br>(Python/Django)"] 
             
             subgraph "URL Routing"
                 MainURLRouter["Main URL Router<br>(Django URLs)"]
-                WeatherURLRouter["Weather URLs Router<br>(Django URLs)"]
+                WeatherURLRouter["Weather URLs Router<br>(Django URLs)"] 
             end
 
-            subgraph "View Components"
+            subgraph "View Components" 
                 WeatherViews["Weather Views<br>(Django Views)"]
                 TemplateEngine["Template Engine<br>(Django Templates)"]
             end
