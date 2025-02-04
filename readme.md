@@ -20,7 +20,7 @@
 - 💨 Detailed wind information
 - ☁️ Cloud coverage visualization
 - 🌅 Sunrise and sunset timings
-- 📍 Precise location coordinates
+- 📍 Precise location coordinates 
 - 🎨 Premium UI with animations
 - 📱 Fully responsive design
 
